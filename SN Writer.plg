@@ -1,0 +1,79 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SN Writer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\mtk07087\AppData\Local\Temp\RSP405C.tmp" with contents
+[
+shlwapi.lib "./mtklib/brom/lib/*.lib" "./mtklib/meta/lib/*.lib" "./mtklib/Eboot/lib/*.lib" "./mtklib/Security/lib/*.lib" "./mtklib/SNFstream/lib/*.lib" "./mtklib/DebugTrace/lib/*.lib" "./mtklib/usbswitchtool/lib/*.lib" /nologo /subsystem:windows /incremental:no /pdb:"Output/SN Writer.pdb" /machine:I386 /out:"Output/SN Writer.exe" 
+.\Output\Common.obj
+.\Output\FPexc.obj
+.\Output\SNbase.obj
+.\Output\SPexc.obj
+.\Output\AtProcess.obj
+.\Output\rs232Module.obj
+.\Output\xboot_debug.obj
+.\Output\AUTH.obj
+.\Output\SCERT.obj
+.\Output\SLA.obj
+.\Output\fileseldlg.obj
+.\Output\ChgPasswdDlg.obj
+.\Output\VerifyPasswdDlg.obj
+.\Output\ScanData.obj
+.\Output\SystemConfig.obj
+.\Output\AboutSNDlg.obj
+.\Output\autogendlg.obj
+.\Output\BtnST.obj
+.\Output\CeXDib.obj
+.\Output\ShadeButtonST.obj
+.\Output\Encryption.obj
+".\Output\SN Writer.obj"
+".\Output\SN WriterDlg.obj"
+.\Output\StdAfx.obj
+".\Output\SN Writer.res"
+]
+Creating command line "link.exe @C:\Users\mtk07087\AppData\Local\Temp\RSP405C.tmp"
+<h3>Output Window</h3>
+Linking...
+   Creating library Output/SN Writer.lib and object Output/SN Writer.exp
+Creating temporary file "C:\Users\mtk07087\AppData\Local\Temp\RSP42AE.tmp" with contents
+[
+/nologo /o"Output/SN Writer.bsc" 
+.\Output\StdAfx.sbr
+.\Output\Common.sbr
+.\Output\FPexc.sbr
+.\Output\SNbase.sbr
+.\Output\SPexc.sbr
+.\Output\AtProcess.sbr
+.\Output\rs232Module.sbr
+.\Output\xboot_debug.sbr
+.\Output\AUTH.sbr
+.\Output\SCERT.sbr
+.\Output\SLA.sbr
+.\Output\fileseldlg.sbr
+.\Output\ChgPasswdDlg.sbr
+.\Output\VerifyPasswdDlg.sbr
+.\Output\ScanData.sbr
+.\Output\SystemConfig.sbr
+.\Output\AboutSNDlg.sbr
+.\Output\autogendlg.sbr
+.\Output\BtnST.sbr
+.\Output\CeXDib.sbr
+.\Output\ShadeButtonST.sbr
+.\Output\Encryption.sbr
+".\Output\SN Writer.sbr"
+".\Output\SN WriterDlg.sbr"]
+Creating command line "bscmake.exe @C:\Users\mtk07087\AppData\Local\Temp\RSP42AE.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+SN Writer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,6 @@
+CatcherTran::MtkCommIOInit()...
+[commModule][MtkCommIOLog]D:\C2K_SN_Writer\1524_SN_Writer_Tool\SN_Writer_tool_src_v1.0_1520.01_All_In_One\SN_Writer_tool_src_v1.0_1520.01_All_In_One\Output\\MtkCommIODLL.dll
+[commModule][MtkCommIOLog]Load MtkCommIO Library Failed...
+[CatcherTran][MtkCommIOLog]MtkCommIODll_Init Failed.
+[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......m_port = 10, baud = 115200
+[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......hCOM = 0x2FDC
